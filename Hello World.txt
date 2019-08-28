@@ -1,6 +1,4 @@
-<html>
-<body>
-<div> This is my first git practice</div>
-<p> This is how it Works </p>
-</body>
-</html>
+
+This is my first git practice.
+This is how it Works.
+
